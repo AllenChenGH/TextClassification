@@ -1,0 +1,10 @@
+apt tests required custom compiler arguments set in pom
+Wrong import warning for imported annotations from superclass when using annotation processors.
+Failed to add classpath entry for generated source folder classes
+Auto Completion Takes Forever and Fails
+Build Automatically constantly rebuilding
+Method parameter annotations missing when a type is re-compiled after an annotation processing round
+APT uses Eclipse classloader
+org.eclipse.jdt.apt.ui should considered for move inside eclipse.jdt.ui
+Eclipse JDT and APT compiler creates problem markers 'cannot be resolved to a type' when using multi round APT
+Comparator errors in I20141008-1300 build

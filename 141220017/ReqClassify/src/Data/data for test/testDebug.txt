@@ -1,0 +1,10 @@
+Initial JDIThread state can get out-of-sync with its underlying ThreadReference
+Refactoring many variables causes many viewer updates
+Add drag and drop support to the Java Display view.
+Lock states not updated
+Refresh problems in JDT Debug Variables tab
+[launching] request button in Run Dialog to take you to main()
+[breakpoints] select multiple breakpoints and edit properties
+Run variables should be properly escaped.
+inherit detail formatters for variable labels
+Better fix for the library detection timeout problem?

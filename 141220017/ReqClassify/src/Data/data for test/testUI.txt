@@ -1,0 +1,10 @@
+[generate constructor] generate constructor from fields adds illegal super call to enum [code generation]
+[open type] Open Type still shows removed type if invoked before reconcile
+[move member type] generates unused import [refactoring]
+[jar exporter] Allowing to use VARIABLEs in jar export path
+[ltk] refactoring preview dialog does not cycle through changes [refactoring]
+[surround with try/catch] wrong exception variable name
+[jar exporter] 'select depended classes' button
+[ltk] unchecking element in filtered change tree should not uncheck hidden children [refactoring]
+[reorg] move dialog should handle working sets [refactoring]
+[reorg] allow moving a type inside a type [refactoring]

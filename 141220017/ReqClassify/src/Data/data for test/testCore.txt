@@ -1,0 +1,10 @@
+Could not retrieve declared fields (err_grp: 5f64d09e)
+[jdt] StackOverflowError in cflow of LambdaExpression.traverse
+Double anonymous types in if statements confuses method overriding code completion proposals
+Unnecessary warning Potential null pointer access on auto-unboxing in loop
+[inline] Inline Constant removes comments that do not belong to the extended range of the declaration node
+Breakpoint hit twice
+[1.8][null] Bogus error with @NonNullByDefault on generified inherited class
+[assist] Invalid type proposal when type name contains $ character(s)
+[select] Invalid \"Current text selection does not resolve to a Java Element\" on valid type name with $ chars
+Invalid 'Potential Null Pointer Access' compiler warning/error with non-short-circuit OR

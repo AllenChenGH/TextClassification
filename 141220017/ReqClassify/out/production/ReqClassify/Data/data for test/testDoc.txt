@@ -1,0 +1,10 @@
+Doc for executing refactorings programmatically
+[doc] Improve JDT documentation on working with JDT Java model
+Use CSS instead of hard coded attributes in HTML files
+Help for Drop to Frame command in debugger incomplete
+org.eclipse.jdt.ui.swtBuilderCompletionProposalComputer fromorg.eclipse.jdt.ui plug-in did not complete normally. unable to instantialte the extension
+Context help description of
+Error on help about Hello World SWT app - File->Import ->Plug-in Development-missing submenu
+[JUnit] explain gray color and incomplete test runs in Help [JUnit]
+Workbench User Guide talks about features not even present in the core Platform (Ant, PDE)
+Document which Java editor template variables aren't available for code templates

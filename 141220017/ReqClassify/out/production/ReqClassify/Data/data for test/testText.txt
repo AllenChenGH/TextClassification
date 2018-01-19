@@ -1,0 +1,10 @@
+[templates] Surround with template formats the surrounded code
+[api] Surface EditorUtility.openInEditor(Object, boolean) as API
+[nls tooling] Provide a quick fix which behaves the same as the auto-fix
+[hovering] No bracket hover when caret placed after } and F2 used
+[jdt] BLE in AbstractDocument.getChar
+[jdt] BPCE in AbstractDocument.removePositionCategory
+[content assist] Cannot scroll code assist window in Motif
+[jdt][projection] AFE in DefaultJavaFoldingStructureProvider.computeCurrentStructure
+eclipse is closing automaically with jvm errlor
+[hovering] control of hover location
